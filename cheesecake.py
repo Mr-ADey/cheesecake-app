@@ -129,10 +129,10 @@ h1 {
 
 <div class="container">
     <img class="bunny" src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif">
-    <h1>Will you be my cheesecake? 🍰</h1>
+    <h1>Hey Karishma, will you be my cheesecake? 🍰</h1>
 
     <button id="yesBtn" class="button yes" onclick="accept()">Yes 💚</button>
-    <button id="noBtn" class="button no" onclick="noClick()">No ❤️</button>
+    <button id="noBtn" class="button no" onclick="noClick()">No 😭</button>
 
     <div id="msg" class="message"></div>
 </div>
